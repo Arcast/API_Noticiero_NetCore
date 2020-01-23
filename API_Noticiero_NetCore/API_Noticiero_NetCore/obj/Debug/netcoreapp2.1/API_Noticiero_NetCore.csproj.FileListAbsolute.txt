@@ -12,3 +12,17 @@ C:\Users\Programador02\Documents\ARCAST\REPOSITORIOS GIT\API_Noticiero_NetCore\A
 C:\Users\Programador02\Documents\ARCAST\REPOSITORIOS GIT\API_Noticiero_NetCore\API_Noticiero_NetCore\bin\Debug\netcoreapp2.1\API_Noticiero_NetCore.pdb
 C:\Users\Programador02\Documents\ARCAST\REPOSITORIOS GIT\API_Noticiero_NetCore\API_Noticiero_NetCore\obj\Debug\netcoreapp2.1\API_Noticiero_NetCore.dll
 C:\Users\Programador02\Documents\ARCAST\REPOSITORIOS GIT\API_Noticiero_NetCore\API_Noticiero_NetCore\obj\Debug\netcoreapp2.1\API_Noticiero_NetCore.pdb
+C:\Users\Programador02\Documents\ARCAST\REPOSITORIOS GIT\API_Noticiero_NetCore\API_Noticiero_NetCore\API_Noticiero_NetCore\bin\Debug\netcoreapp2.1\API_Noticiero_NetCore.deps.json
+C:\Users\Programador02\Documents\ARCAST\REPOSITORIOS GIT\API_Noticiero_NetCore\API_Noticiero_NetCore\API_Noticiero_NetCore\bin\Debug\netcoreapp2.1\API_Noticiero_NetCore.runtimeconfig.json
+C:\Users\Programador02\Documents\ARCAST\REPOSITORIOS GIT\API_Noticiero_NetCore\API_Noticiero_NetCore\API_Noticiero_NetCore\bin\Debug\netcoreapp2.1\API_Noticiero_NetCore.runtimeconfig.dev.json
+C:\Users\Programador02\Documents\ARCAST\REPOSITORIOS GIT\API_Noticiero_NetCore\API_Noticiero_NetCore\API_Noticiero_NetCore\bin\Debug\netcoreapp2.1\API_Noticiero_NetCore.dll
+C:\Users\Programador02\Documents\ARCAST\REPOSITORIOS GIT\API_Noticiero_NetCore\API_Noticiero_NetCore\API_Noticiero_NetCore\bin\Debug\netcoreapp2.1\API_Noticiero_NetCore.pdb
+C:\Users\Programador02\Documents\ARCAST\REPOSITORIOS GIT\API_Noticiero_NetCore\API_Noticiero_NetCore\API_Noticiero_NetCore\obj\Debug\netcoreapp2.1\API_Noticiero_NetCore.csprojAssemblyReference.cache
+C:\Users\Programador02\Documents\ARCAST\REPOSITORIOS GIT\API_Noticiero_NetCore\API_Noticiero_NetCore\API_Noticiero_NetCore\obj\Debug\netcoreapp2.1\API_Noticiero_NetCore.csproj.CoreCompileInputs.cache
+C:\Users\Programador02\Documents\ARCAST\REPOSITORIOS GIT\API_Noticiero_NetCore\API_Noticiero_NetCore\API_Noticiero_NetCore\obj\Debug\netcoreapp2.1\API_Noticiero_NetCore.RazorAssemblyInfo.cache
+C:\Users\Programador02\Documents\ARCAST\REPOSITORIOS GIT\API_Noticiero_NetCore\API_Noticiero_NetCore\API_Noticiero_NetCore\obj\Debug\netcoreapp2.1\API_Noticiero_NetCore.RazorAssemblyInfo.cs
+C:\Users\Programador02\Documents\ARCAST\REPOSITORIOS GIT\API_Noticiero_NetCore\API_Noticiero_NetCore\API_Noticiero_NetCore\obj\Debug\netcoreapp2.1\API_Noticiero_NetCore.AssemblyInfoInputs.cache
+C:\Users\Programador02\Documents\ARCAST\REPOSITORIOS GIT\API_Noticiero_NetCore\API_Noticiero_NetCore\API_Noticiero_NetCore\obj\Debug\netcoreapp2.1\API_Noticiero_NetCore.AssemblyInfo.cs
+C:\Users\Programador02\Documents\ARCAST\REPOSITORIOS GIT\API_Noticiero_NetCore\API_Noticiero_NetCore\API_Noticiero_NetCore\obj\Debug\netcoreapp2.1\API_Noticiero_NetCore.RazorTargetAssemblyInfo.cache
+C:\Users\Programador02\Documents\ARCAST\REPOSITORIOS GIT\API_Noticiero_NetCore\API_Noticiero_NetCore\API_Noticiero_NetCore\obj\Debug\netcoreapp2.1\API_Noticiero_NetCore.dll
+C:\Users\Programador02\Documents\ARCAST\REPOSITORIOS GIT\API_Noticiero_NetCore\API_Noticiero_NetCore\API_Noticiero_NetCore\obj\Debug\netcoreapp2.1\API_Noticiero_NetCore.pdb
