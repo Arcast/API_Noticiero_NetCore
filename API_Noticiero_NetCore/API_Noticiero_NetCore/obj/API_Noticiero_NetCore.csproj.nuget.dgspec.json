@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Programador02\\Documents\\ARCAST\\REPOSITORIOS GIT\\API_Noticiero_NetCore\\API_Noticiero_NetCore\\API_Noticiero_NetCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Programador02\\Documents\\ARCAST\\REPOSITORIOS GIT\\API_Noticiero_NetCore\\API_Noticiero_NetCore\\API_Noticiero_NetCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Programador02\\Documents\\ARCAST\\REPOSITORIOS GIT\\API_Noticiero_NetCore\\API_Noticiero_NetCore\\API_Noticiero_NetCore.csproj",
+        "projectName": "API_Noticiero_NetCore",
+        "projectPath": "C:\\Users\\Programador02\\Documents\\ARCAST\\REPOSITORIOS GIT\\API_Noticiero_NetCore\\API_Noticiero_NetCore\\API_Noticiero_NetCore.csproj",
+        "packagesPath": "C:\\Users\\Programador02\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Programador02\\Documents\\ARCAST\\REPOSITORIOS GIT\\API_Noticiero_NetCore\\API_Noticiero_NetCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Programador02\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packagesource": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
