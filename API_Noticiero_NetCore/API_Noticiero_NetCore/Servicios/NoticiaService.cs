@@ -49,11 +49,12 @@ namespace API_Noticiero_NetCore.Servicios
             }
         }
 
-        public Boolean EliminarNoticia(Noticia _noticia)
+        public Boolean EliminarNoticia(int _NoticiaId)
         {
             try
             {
-                _NoticieroDbContext.Entry(_noticia).State = EntityState.Deleted;
+                var _Noticia = _NoticieroDbContext.noticia.Find(_NoticiaId);
+                _NoticieroDbContext.Entry(_Noticia).State = EntityState.Deleted;
                 _NoticieroDbContext.SaveChanges();
                 return true;
             }

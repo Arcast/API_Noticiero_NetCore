@@ -56,10 +56,10 @@ namespace API_Noticiero_NetCore.Controllers
             }
         }
         [HttpDelete]
-        [Route("Eliminar")]
-        public IActionResult Eliminar(Noticia _noticia)
+        [Route("Eliminar/{noticiaID}")]
+        public IActionResult Eliminar(int noticiaID)
         {
-            var resultado = _noticiaService.EliminarNoticia(_noticia);
+            var resultado = _noticiaService.EliminarNoticia(noticiaID);
             if (resultado)
             {
                 return Ok();
